@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 365e2f0b172fe7946910aadd2423d7b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pickUp: {fileID: 8300000, guid: df80034cf3bf52a4ca8bea4b6a404460, type: 3}
+  - dropTrash: {fileID: 8300000, guid: 8d63fceeb1820f543ab9fa5525f81263, type: 3}
+  - knifeCut: {fileID: 8300000, guid: 7330df3b33f9eaa46bf55dd21569bb64, type: 3}
+  - fryPan: {fileID: 8300000, guid: fbdda371ccec32f40ac215bffe93e899, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

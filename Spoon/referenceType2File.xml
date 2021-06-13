@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9fd5489ebed282448ffce56090fefd7</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildInfoManager.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>49792b455df9c0341a51d3ed9126a9cc</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildInfoMergerWindow.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>173fd4f00e5547f4bb3c260d9cbb16d5</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildProcessor.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e55a84cb0bcf0414085a72914a3a9841</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildReportFileInfo.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>12cee7fed09c12246ae59c3f225d3243</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildReportWindow.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>200a2edfc52002c468b33af791f333c0</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_EditorData.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f678a0e10225c0a4faaf391cccd00d2b</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_ElementList.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e666beed7750ac4438892d0bb9ec6257</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_IgnoreList.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a1fe58bf2b20a944bfd906f72b39287</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_IgnoreListEventActionBase.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b539e63be4aca346ad27ff903abb802</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_IIgnoreListActions.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d0994f98ad87954690048c4b3e19047</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_PreProcessor.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7e664ab2ccf1df844bb835e85586b62d</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SceneReferenceWindow.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9499f6dadb6456a45ad8decc1c18deef</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SerializationHelper.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d1ad9523d8b90e4aa519e18c20cc206</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SerializedAssetInfo.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4578e682bc79b847ba0187ca63670a5</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SerializedBuildInfo.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>212dc98f02d51a3469c3d1f4dc517bc0</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SettingsManager.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2611a0e0cb88863459b1f2cfb4b68112</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SettingsWindow.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>34d0a9acdf4dbcb4f82cfd0156081719</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_TreeViewSelectionInfo.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4cdbc131ece9fb340865ffc0cc57f156</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_Utils.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>137ae79880bd61047a9749429269f90c</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_VersionUpgrader.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c15a7cb4e3c84c141a3abe55fd9c73fe</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_Window.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>88440adf44e52134b85213e96b875a00</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/~ObsoleteWindowStyler~.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:25.4575146+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0c1c6abb88a39844090db7cb9f31b438</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/External/Docker.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a118fee61d7a50043b17a704f0909285</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_BuildInfoTreeView.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efad43b96d78a3940a3d101b069a04ff</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_MultiColumnHeader.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc7d76ef034ec884fac439e301715bd7</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_TreeviewElement.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e00d20ba7c1f4d446a34ea24d8b82c4e</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_TreeViewWithTreeModel.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>69be32fe4d27dde489209c5885c1e5dc</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeElement.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd65e8f324e17a344a97ddcf5a8d89d2</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeElementUtility.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f9fab1cf2636a6439c644bf08108abb</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeModel.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:25.4515115+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68fe63fd42552e7418aac450b41b8afb</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeViewWithTreeModel.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7cbc456ed952974280520c0443d2c9f</guid>
+    <fileName>Assets/Heureka/Global/Editor/Heureka_EditorData.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:25.5325312+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8cdad70aa85cb144e9299622e104cce6</guid>
+    <fileName>Assets/Heureka/Global/Editor/Heureka_Serializer.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>193aea51eb2e7314387c70be631287b0</guid>
+    <fileName>Assets/Heureka/Global/Editor/Heureka_WindowStyler.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:25.5405183+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e2b56c743d6a700428791f460b02a9c7</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageData.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ad52548211456340bc14f056dd164dd</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataManager.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataManagerEditor.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>312ef3862be95544daf14a84810fef28</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataPromo.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b27603d2be0e81488eb446378c435df</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataVersioned.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2020-08-24T19:14:18+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52fea17a2d56d46afa0d6cb52e2a4335</guid>
+    <fileName>Assets/LeanTween/Editor/LeanTweenDocumentationEditor.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.2893059+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LeanTweenDocumentationEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>876bfcaf53a664f29a628faa9fa332fc</guid>
+    <fileName>Assets/LeanTween/Examples/Archived/OldGUIExamplesCS.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.3058214+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>OldGUIExamplesCS</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8abaf57a262a44a994d8e7bcbc035e0</guid>
+    <fileName>Assets/LeanTween/Examples/Archived/TestingPunch.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.3158214+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TestingPunch</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1172f23ac87274d9f941c26abca49be5</guid>
+    <fileName>Assets/LeanTween/Examples/Archived/TestingRigidbodyCS.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.326749+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TestingRigidbodyCS</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e619db3c84234f098b8636588c25e4f</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/Following.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7136983+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>Following</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4fce1b486cc240c4825b3bfd794e9e0</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralAdvancedTechniques.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7156956+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralAdvancedTechniques</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2605544ab2e14c93a780ca20c108cfe</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralBasic.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7187105+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralBasic</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b39dd70d168b4cbea9a7b8561d9accc</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralBasics2d.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7206969+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralBasics2d</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a650682fa3d54a57a2521dbf9f6eac2</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralCameraShake.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7236976+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralCameraShake</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94e9a883a33cd40b9be1a63f002c4db2</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralEasingTypes.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7267005+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralEasingTypes</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd679d4fbbd8d475ba7187561370c3aa</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralEventsListeners.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7297122+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralEventsListeners</string>
+      <string>GeneralEventsListeners+MyEvents</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5b54bce4a9ed14e28a4a423c794a2d70</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralSequencer.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7317123+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralSequencer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19c352f230e8b46f08abbbd7cc11edb8</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralSimpleUI.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7337128+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralSimpleUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc2ddccee016148b189d987f564ee08e</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralUISpace.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7367037+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>GeneralUISpace</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>674f3c10d8880408e875a9e6c3ee83bb</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/LogoCinematic.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7397051+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LogoCinematic</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac2038ba3961049ed889ae71039982cd</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathBezier.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7417139+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>DentedPixel.LTExamples.PathBezier</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>873cb511c724a48bd919ce8a18fa882c</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathBezier2d.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7447144+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PathBezier2d</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef4235237d8d8413c9d5807cf0a1f77b</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSpline.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.748706+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>ExampleSpline</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15c036b11e3ff486ea685da06fa305f6</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSpline2d.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7507015+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PathSpline2d</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>784f0e347ee4d4c3b83ca56d6f33f01a</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplineEndless.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7536985+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PathSplineEndless</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5de62495c8a5d49e6b3ca111f8c7e944</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplinePerformance.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7556999+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PathSplinePerformance</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>de0396ae3eef541c190f0e6962090454</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplines.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7606983+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PathSplines</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31af73f8be2864eda9a3fbb6d0d2a9c7</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplineTrack.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7586992+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PathSplineTrack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fef58bd01146344429d022b95c6af872</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/TestingUnitTests.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7637141+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>DentedPixel.LTExamples.TestingUnitTests</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed8575995d061498aa84acbaf0b377de</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/TestingZLegacy.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7656992+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TestingZLegacy</string>
+      <string>TestingZLegacy+NextFunc</string>
+      <string>TestingZLegacy+TimingType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c5a76b5b44fc4416a82391d1ab9ec33d</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/TestingZLegacyExt.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7687023+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TestingZLegacyExt</string>
+      <string>TestingZLegacyExt+NextFunc</string>
+      <string>TestingZLegacyExt+TimingType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52e41e970d9353942b27458440bec9eb</guid>
+    <fileName>Assets/LeanTween/Framework/LeanAudio.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.8060195+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LeanAudioStream</string>
+      <string>LeanAudio</string>
+      <string>LeanAudioOptions</string>
+      <string>LeanAudioOptions+LeanAudioWaveStyle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ca0f285af8dd4270bd759978223faad</guid>
+    <fileName>Assets/LeanTween/Framework/LeanSmooth.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.8090213+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LeanSmooth</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82464f26ca2ba284a8f92f51248c574a</guid>
+    <fileName>Assets/LeanTween/Framework/LeanTest.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.8110212+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LeanTester</string>
+      <string>LeanTest</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c2f4b27196f84954b44753aaac214bb</guid>
+    <fileName>Assets/LeanTween/Framework/LeanTween.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.8152562+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TweenAction</string>
+      <string>LeanTweenType</string>
+      <string>LeanProp</string>
+      <string>LeanTween</string>
+      <string>LTUtility</string>
+      <string>LTBezier</string>
+      <string>LTBezierPath</string>
+      <string>LTSpline</string>
+      <string>LTRect</string>
+      <string>LTEvent</string>
+      <string>LTGUI</string>
+      <string>LTGUI+Element_Type</string>
+      <string>DentedPixel.LeanDummy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5dbe851e9c0814f1d8f514ecf70f675d</guid>
+    <fileName>Assets/LeanTween/Framework/LeanTweenExt.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.8212573+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LeanTweenExt</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>381c8d6fb1acdc348870a7147bc98723</guid>
+    <fileName>Assets/LeanTween/Framework/LTDescr.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.7980179+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LTDescr</string>
+      <string>LTDescr+EaseTypeDelegate</string>
+      <string>LTDescr+ActionMethodDelegate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c1ba8f1ef97134cb39b52ae26678db63</guid>
+    <fileName>Assets/LeanTween/Framework/LTDescrOptional.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.8010191+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LTDescrOptional</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c88dbe4cdd9944f198e9796ee394c86</guid>
+    <fileName>Assets/LeanTween/Framework/LTSeq.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:36.8030325+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>LTSeq</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a194114c3547f348b1954018ee3dceb</guid>
+    <fileName>Assets/Scripts/ExitAnime.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0241681+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>ExitAnime</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45fffd7709d37ce49a6be67ab9c48e18</guid>
+    <fileName>Assets/Scripts/utilities/Audiopan.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0291698+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>Audiopan</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>547c48d7271578547a26258cfbcdefb4</guid>
+    <fileName>Assets/Scripts/utilities/AutoTimerForTrials.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0321677+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>AutoTimerForTrials</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c861041471971a44b8b004e21fb37e49</guid>
+    <fileName>Assets/Scripts/utilities/CreationTable.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0341694+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>CreationTable</string>
+      <string>CreationtableItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0bd5e5e49a9e1b7408af347b229ae4f2</guid>
+    <fileName>Assets/Scripts/utilities/doublescreenCameramanager.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0491713+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>doublescreenCameramanager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3a6e664a5309db4c888d50c28476776</guid>
+    <fileName>Assets/Scripts/utilities/Logger.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0381716+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>Logger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dfc62e0fd1d7a594d9019b89be6b90d8</guid>
+    <fileName>Assets/Scripts/utilities/ParticleTypeEnum.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.041173+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>ParticleType</string>
+      <string>ParticleTypeMethods</string>
+      <string>RoamingObjectType</string>
+      <string>RoamingObjectMethods</string>
+      <string>EffectType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a378bc09648a3384fb4bc29feb4614c1</guid>
+    <fileName>Assets/Scripts/utilities/UVRotatonScript.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0441716+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>UVRotatonScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e46a05ca91ca73741920599960a859a7</guid>
+    <fileName>Assets/Scripts/utilities/WorldParticleAssingment.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0471694+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>WorldParticleAssingment</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3553b182e33054e4c93019cec41aece1</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/Combinations.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T11:20:20.3809892+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>Combinations</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5b5b173062df6c8498e632e0074c2e63</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/CookIngredient.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T10:42:00.383031+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>CookIngredient</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd173ab968cca6943bb7cce32834f8f4</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/CutIngredient.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T10:28:56.1443749+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>CutIngredient</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c42e5a96893570f4da7273114a9380f7</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/FiducialController.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T16:36:07.557502+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>FiducialController</string>
+      <string>FiducialController+RotationAxis</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acce6de1ee1138d499796babd118a3d7</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/IngredientStates.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T10:45:44.6319477+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>IngredientStates</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cfdfd3e28a03aa343a284b4621a960b5</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/PassPlate.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T11:36:00.7384556+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PassPlate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5461f0abb741aad43b40b4942fcadc54</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/Plate.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T10:26:43.8940117+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>Plate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>614a30e6442ce904a85da39a78c40a65</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/PutInPlate.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T10:31:53.6609387+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>PutInPlate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2104e4322bf513049bfb23a7e648a499</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/RemoveIngredients.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-13T11:39:59.8846791+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>RemoveIngredients</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d0d9f2f50ece9b40bdbd2a31d6200a9</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/SimpleRotation.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0941745+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>SimpleRotation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>365e2f0b172fe7946910aadd2423d7b3</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/SoundManager.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0961728+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>SoundManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f86517c4c535ae047b416e0c3c596326</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TuioManager.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1381768+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>UniducialLibrary.TuioManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1a76253d08a1b945bf7bdbc40048987</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/Editor/UniducialInspector.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0691744+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>UniducialInspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>047ce41870e9d494a89913d3ab1cf6c9</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/Editor/UniducialMenu.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.0721715+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>UniducialMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a54ff84b4ba609449f71ed0c9c350b7</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/OSCBundle.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1001733+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>OSC.NET.OSCBundle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c597f5a3ffbbf2439e13f702bbd4ccb</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/OSCMessage.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1041764+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>OSC.NET.OSCMessage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>134fcb7d99c706c44bac6b1bff3f1b67</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/OSCPacket.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1071779+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>OSC.NET.OSCPacket</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fadfb0fbca129504e823fa291812c315</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/OSCReceiver.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1111783+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>OSC.NET.OSCReceiver</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>adf80050148422444a8d707cb72fe53a</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/OSCTransmitter.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1141796+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>OSC.NET.OSCTransmitter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5996e45972882a24fb403286db364fea</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/TuioClient.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1161797+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TUIO.TuioClient</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2f3f062ca03a9f4a97eb504dd9f5fa9</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/TuioContainer.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1201775+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TUIO.TuioContainer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79e75b3d42c3ba34f9ec2dd2dbb19c70</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/TuioCursor.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1241794+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TUIO.TuioCursor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a70fcbd463834d4a8bb94ca55c282f4</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/TuioListener.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1261786+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TUIO.TuioListener</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>757fde5688fa60640a277b7cc96e1b03</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/TuioObject.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1301763+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TUIO.TuioObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5eb69c556fad8124e8632b9d0f408fdd</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/TuioPoint.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1321751+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TUIO.TuioPoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>049749512a91f4c4dba7078931804cd0</guid>
+    <fileName>Assets/Scripts/utilities/utility tracking for unity/Uniducial/TUIOConnector/TuioTime.cs</fileName>
+<<<<<<< HEAD
+    <timeStamp>2021-06-12T15:38:40.1351764+02:00</timeStamp>
+=======
+    <timeStamp>2021-06-13T10:57:48+02:00</timeStamp>
+>>>>>>> f83049a017ca69ef0c712420d51abef6679a40da
+    <typeFullName>
+      <string>TUIO.TuioTime</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
